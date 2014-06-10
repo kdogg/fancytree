@@ -1,0 +1,1 @@
+../../../d.ts/jquery.fancytree.d.ts
